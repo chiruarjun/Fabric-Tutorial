@@ -7,7 +7,6 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 11005,MR.,JULIO,RUIZ,8/5/1965,S,M,julio1@adventure-works.com,"$70,000 ",0,Bachelors,Professional,Y
 11007,MR.,MARCO,MEHTA,5/9/1964,M,M,marco14@adventure-works.com,"$60,000 ",3,Bachelors,Professional,Y
 11008,MRS.,ROBIN,VERHOFF,7/7/1964,S,F,rob4@adventure-works.com,"$60,000 ",4,Bachelors,Professional,Y
-11009,MR.,SHANNON,CARLSON,4/1/1964,S,M,shannon38@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
 11010,MS.,JACQUELYN,SUAREZ,2/6/1964,S,F,jacquelyn20@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
 11011,MR.,CURTIS,LU,11/4/1963,M,M,curtis9@adventure-works.com,"$60,000 ",4,Bachelors,Professional,Y
 11012,MRS.,LAUREN,WALKER,1/18/1968,M,F,lauren41@adventure-works.com,"$100,000 ",2,Bachelors,Management,Y
